@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm interested in **Node.js** and _Express_.
+__Sometimes__ I'm in frontend too
